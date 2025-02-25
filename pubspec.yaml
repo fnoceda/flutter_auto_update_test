@@ -13,8 +13,10 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_autoupdate: ^1.0.0
+  permission_handler: ^8.1.4+2
 
 dev_dependencies:
+  change_app_package_name: ^1.0.0 # flutter pub run change_app_package_name:main dev.soluciones.auto_update_test
   flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter

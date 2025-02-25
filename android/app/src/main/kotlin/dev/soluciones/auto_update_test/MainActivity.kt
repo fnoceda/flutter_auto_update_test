@@ -1,4 +1,4 @@
-package com.example.auto_update_test
+package dev.soluciones.auto_update_test
 
 import io.flutter.embedding.android.FlutterActivity
 
